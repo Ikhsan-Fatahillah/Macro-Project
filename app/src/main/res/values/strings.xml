@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Project Macro</string>
+    <string name="welcome">Selamat Datang</string>
+    <string name="welcome_teks">Selamat datang di Mosvont Academy yang membantu para pelajar dalam meningkatkan pembelajaran mandiri dengan fitur yang disediakan </string>
+    <string name="pendidikan">Pentingnya Pendidikan</string>
+    <string name="teks_pendidikan">Aplikasi ini dirancang untuk meningkatkan pengetahuan akademik, melatih kemampuan diri, serta memperluas wawasan seputar dunia akademik</string>
+    <string name="ebook">Akses E-Book</string>
+    <string name="Teks_ebook">Ciptakan keajaiban bagi dirimu sendiri dengan meng-akses Ebook secara gratis.</string>
+    <string name="equipper">Equipeer</string>
+    <string name="teksEquipper">Dalam aplikasi ini ada fitur Quizizz sebagai media evaluasi pembelajaran yang menarik dan menyenangkan.Serta fitur lainnya yang akan terus di Update.</string>
+
 </resources>

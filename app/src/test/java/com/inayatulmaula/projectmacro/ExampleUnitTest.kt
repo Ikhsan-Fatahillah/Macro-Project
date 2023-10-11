@@ -1,4 +1,4 @@
-package com.example.projectmacro
+package com.inayatulmaula.projectmacro
 
 import org.junit.Test
 
