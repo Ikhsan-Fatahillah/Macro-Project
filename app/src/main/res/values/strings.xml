@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Project Macro</string>
+    <string name="app_name2">Project Macro</string>
     <string name="welcome">Selamat Datang</string>
     <string name="welcome_teks">Selamat datang di Mosvont Academy yang membantu para pelajar dalam meningkatkan pembelajaran mandiri dengan fitur yang disediakan </string>
     <string name="pendidikan">Pentingnya Pendidikan</string>
@@ -9,4 +9,17 @@
     <string name="equipper">Equipeer</string>
     <string name="teksEquipper">Dalam aplikasi ini ada fitur Quizizz sebagai media evaluasi pembelajaran yang menarik dan menyenangkan.Serta fitur lainnya yang akan terus di Update.</string>
 
+    <string name="app_name">Dzikri</string>
+    <string name="hai">Hai, Dzikri Arfiansyah\nMau Belajar Apa hari ini!</string>
+    <string name="membaca">Membaca dimana pun\ndan Kapan pun.</string>
+    <string name="sub_title">Temukan bacaan terbaik tentang\nBeragam topik menarik. </string>
+    <string name="gratis">Baca Gratis di Mosvont Academy</string>
+    <string name="kategori">Popular Categories</string>
+    <string name="cerahkan">Cerahkan duniamu dengan\nMembaca beberapa halaman\nserta Sebarkan Aplikasi ini</string>
+    <string name="mulai">Mulai Perjalananmu</string>
+    <string name="sub_mulai">Saatnya untuk memulai perjalananmu\nmenuju pendidikan yang lebih baik\nbersama Mosvont Academy.</string>
+    <string name="Dokumen">Dokumen yang disimpan</string>
+    <string name="accepted">Your Register has been\nAccepted</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

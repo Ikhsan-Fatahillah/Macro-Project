@@ -8,4 +8,9 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="button">#00ADB5</color>
+
+
+    <color name="purple">#8E97AA</color>
+    <color name="blue">#00ADB5</color>
+    <color name="yellow">#FFD230</color>
 </resources>
