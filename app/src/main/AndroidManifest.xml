@@ -12,6 +12,9 @@
         android:theme="@style/Theme.ProjectMacro"
         tools:targetApi="31">
         <activity
+            android:name=".BuatAkunActivity"
+            android:exported="false" />
+        <activity
             android:name=".halDepan3"
             android:exported="false" />
         <activity
